@@ -1,2 +1,3 @@
-# mill-hacks
-Plugin to extend the WordPress theme Mill
+# Mill Hacks
+
+Plugin to extend the WordPress theme Mill.
